@@ -1,2 +1,2 @@
-Groq
-Streamlit 
+groq
+streamlit 
