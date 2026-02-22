@@ -1,2 +1,4 @@
 groq
-streamlit
+python-dotenv
+PyPDF2
+streamlit 
